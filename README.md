@@ -1,1 +1,1 @@
-# machinelearning-starcraft2
+# Machine Learning StarCraft II
